@@ -26,6 +26,8 @@ ANALYSIS_END   <- 19L * 3600L
 
 MIN_SPEED_KPH  <- 1
 MAX_SPEED_KPH  <- 85
+
+# Path to UK GTFS file downloaded from DfT BODS (adjust as needed)
 GTFS_PATH <- "C://Data/itm_all_gtfs.zip"
 
 agency_lookup <- tibble(

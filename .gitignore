@@ -1,7 +1,5 @@
 # Ignore Data
-data/
 *.zip
-*.rds
 
 # Ignore R environment files
 .Rhistory
